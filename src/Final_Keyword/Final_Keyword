@@ -1,0 +1,15 @@
+Final KeyWord With Variable
+=============
+When we create a variable with Final keyword  that variable value is fixed, We can not change that value.
+
+final int a=100;
+============================================================================================================
+Final KeyWord With Method
+=========================
+
+If we create a method with final keyword we can not override this method in the child classes.
+If You don't want to to override method in child classes you can make that method as a final.
+============================================================================================================
+Final KeyWord With Method
+=========================
+When you make the Class is final then we can't extends this Class into the child classes.

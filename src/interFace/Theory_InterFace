@@ -1,0 +1,22 @@
+Interface:
+================
+It is one of the OOPs Principle .
+It is 100% abstract in nature. In interface we can declare only incomplete method in it.
+
+
+Feature of Interface:
+=========================
+Data members/variable declared inside interface by default static and final.
+Method declared inside interface are by default public and abstract.
+Constructor concept not present in interface
+By using Interface we achieve multiple inheritance.
+To create object of interface programmer need to make use of implementation Class by using Implements keywords.
+
+Implementations Class:
+========================
+A class which provide definitions for all the incomplete method which present in interface with the help
+of 'implementations' keyword is called implementation class.
+
+
+
+

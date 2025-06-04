@@ -1,0 +1,37 @@
+Access Modifiers
+======================
+
+Access modifiers are used to represents the scope of member of class
+
+1) Private
+2) default
+3) protected
+4) Public
+
+1) Public
+=========
+If we declared any member of class as public then the scope of that member remain throught the project.
+
+2) default
+==========
+ If we declared any member of class as default then the scope of that member remain only within the Package
+ It can't be access from other packages.
+ There is no such a keyword to represents default access specifiers.
+
+ 3) private
+ ==========
+ If we declared any member of class as private then scope of that member only within the class
+ We can't be access from other classes
+
+ 4) protected
+ ==============
+ If we declared any member of class as protected then the scope of that member remain only within the package.
+ In subclasses (even in different packages) using inheritance.
+
+
+
+ Note :
+ We can't access any property from one project to another project.
+ We can't  create class as private because compiler does not give permission
+
+

@@ -1,0 +1,59 @@
+PloyMorphisam :
+It is one of the OOPs principle where one object showing different Behavior  at different stages
+of life cycle.
+
+In Java PloyMorphisam  is classified into two types :
+
+1) CompileTime PloyMorphisam (Static)
+2) Runtime PloyMorphisam (Dynamic)
+======================================
+1) CompileTime PloyMorphisam (Static)
+======================================
+In compileTime PloyMorphisam method declaration going to get binded its definitions  at compileTime
+based on its parameters is know as compileTime PloyMorphisam.
+
+Note :
+-> As binding takes during compileTime only so it is also know as early binding.
+-> Once binding done, again re-binding can't be possible.
+=============================================================================================
+Method OverLoading is an example of CompileTime PloyMorphisam.
+
+Method OverLoading :
+====================
+Declaring multiple method with same name with different parameters in a same Class is called as method
+Overloading.
+
+1) Methods name should be same.
+2) Number of parameter should be different.
+3) Data types of parameter should be different.
+4) Order of parameter should be different.
+=============================================================================================
+
+2) Runtime PloyMorphisam (Dynamic)
+======================================
+In RuntimePolymorphism method is going to get binded to its definitions at runtime or execution time based on object
+creation is know as runtimePolymorphosm.
+
+-> As binding takes place during runtime or execution time  so it is also known as late binding.
+-> Once binding is done, again re-binding can be possible so it also called as dynamic binding.
+
+Method overriding is an Example of of runtime PloyMorphisam.
+
+Method Overriding :
+=====================
+Acquiring Super class properties into Sub-Class with the help of 'extends' keyword and changing Implementation or
+definitions according to Sub-class specification  is called as method overriding.
+
+1) Method should be same in both the Classes
+2) Types of arguments should be Same
+3) No of Parameters should be same.
+
+
+
+
+
+
+
+
+
+

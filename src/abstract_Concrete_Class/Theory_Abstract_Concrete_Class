@@ -1,0 +1,23 @@
+Abstract and Concrete Class
+===============================
+Abstract Class :
+===============
+ A class declared with abstract keyword is called as abstract class.
+======
+ A abstract class nothing but the an incomplete class where we can declare complete as well as incomplete
+ method in it.
+
+ Programmer can declare incomplete method as abstract method by declaring keyword called as abstract keyWord
+ in-front of method.
+
+ We can't create object of abstract class.To create object of abstract class we need to use Concrete class.
+ ===========================================================================================================
+ Concrete Class :
+ =================
+ A class which provide definitions for all incomplete methods which are present in abstract class with the help of
+ extends keyword is called as concrete class.
+
+
+
+
+
