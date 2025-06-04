@@ -1,0 +1,37 @@
+Variables:
+===========================================
+-> variable is the name of memory location that can store Data.
+-> Variable is a Container which can hold data, to represents that data we need to use variable.
+-> In any programming langauge the variable is elementary unit for storing data.
+-> It means If we create a variable you reserved some space in memory
+-> Without Data type we can't store values.
+====================================================================================================
+Types OF Variables :
+=========================
+Local variable :
+=====================
+Declaration : Declared inside the method, Block or Constructor.
+Scope: Can be used method, block or constructor
+Allocation: Allocate the memory when that particular method ,constructor , block is executed and released
+the memory after there execution.
+Memory :Allocate the memory in stack area.
+Default Values : Don't have any default value for local variable, value should be provided before use.
+Access Modifiers: we can't use access modifier with local variable.
+====================================================================================================
+Instance Variable:
+=====================
+Declaration : Declared at Class level and outside method, Block or Constructor.
+Scope: Can be used inside any method Block or constructor but not inside the static method.
+Allocation: Allocate the memory when object is created and release the memory when object that deleted.
+Memory : Heap Area.
+Default Values : Have default values Like int for 0 and float for 0.0
+Access Modifiers: We can used with instance variable.
+====================================================================================================
+Static Variable:
+=====================
+Declaration : Declared at Class level With static keyword but outside method, Block or Constructor.
+Scope: Can be used inside any method Block or constructor and even inside the static method.
+Allocation: Allocate the memory when .class file loaded in JVM.
+Memory : Allocate memory in class or method area.
+Default Values : Have default values Like int for 0 and float for 0.0
+Access Modifiers: We can used with static variable.

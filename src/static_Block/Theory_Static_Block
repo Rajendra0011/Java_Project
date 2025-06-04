@@ -1,0 +1,6 @@
+Static Block;
+==================================
+A static block( Also known as static initialization block) is a block of code inside a class that runs once
+when the class is loaded into memory.
+
+Before any object are created and even before main() method is executed

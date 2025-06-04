@@ -18,7 +18,7 @@ public class Array_Input_From_User {
 			a[i]=sc.nextInt();
 		}
 
-
+		sc.close();
 	}
 
 }
