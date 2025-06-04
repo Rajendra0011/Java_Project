@@ -1,0 +1,18 @@
+Generalization :
+=======================================================================================================================
+Extracting all important common properties and declaring in super class and providing definitions according to subClass
+specifications is called as generalizations.
+
+Generalization file can be normal java class or abstract class or interface but only interface recommended.
+=======================================================================================================================
+
+Interface =====> Super Interface
+void BI();
+void MT();
+void OW();
+
+Implementation Class
+Saving Account						Current Account							Salary Account
+All method definition				All method definition					All method definition
+
+
