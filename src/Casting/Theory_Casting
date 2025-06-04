@@ -8,7 +8,7 @@ A) Primitive Casting
 B) Non-Primitive Casting
 ===============================================
 1) Primitive Casting :
-=======================
+===============================================
 Converting One Data Type Information into another Data Types informations is called as Primitive Casting.
 
 Primitive Casting is Classified three types :
@@ -17,7 +17,7 @@ Primitive Casting is Classified three types :
 3) Boolean Casting
 
 1) Implicit Casting :
-=======================
+===============================================
 Converting Lower Data Type information into Higher Data Type information is Called as implicit casting.
 Implicit casting are also called as winding casting.
 
@@ -26,7 +26,7 @@ int a=10;
 double b=a;
 ====================================================================================================================
 2) Explicit Casting :
-=======================
+===============================================
 Converting Higher Data Type information into lower Data Type Information is called as Explicit Casting.
 Explicit casting are also called as narrowing casting
 
@@ -35,12 +35,13 @@ int a= (int)b;
 In explicit casting data loss take place.
 ====================================================================================================================
 Boolean Casting :
-=======================
+===============================================
 Boolean casting is considered to incomplete casting type because where information is already predefined
 inside it.
 ====================================================================================================================
 ====================================================================================================================
 B) Non-primitive Casting
+===============================================
 Converting one type class into another Type Class is called as Non-Primitive Casting.
 
 Non-Primitive Casting is classified into two types:
@@ -48,7 +49,7 @@ Non-Primitive Casting is classified into two types:
 2) Down Casting
 
 1) Up-casting :
-=======================
+===============================================
 Assigning subClass properties into super Class is called as up Casting.
 Before performing Up-casting 1st we need to perform inheritance operation,
 after performing inheritance operation the property of which present in parent class comes into subClass.
@@ -64,7 +65,7 @@ Create object of child class and gives the reference of super class.
 Parent p = new Son();
 ====================================================================================================================
 1) Down-casting :
-=======================
+===============================================
 Assign Super-Class property into subclass is called as Down Casting.
 Before performing downCasting first we need to perform up-casting.
 
