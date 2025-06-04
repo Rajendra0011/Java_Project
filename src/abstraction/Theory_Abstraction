@@ -1,0 +1,9 @@
+Abstraction :
+================================================
+Abstraction is one of the OOP's principle
+Hiding Implementations code + providing only functionality to end user is called as abstractions.
+==========================================================================================================
+Note :
+The Scenario abstraction 'If customer is visiting or making use of any application then he sound utilize
+functionality only & should not feel any back-end code processing.
+==========================================================================================================
