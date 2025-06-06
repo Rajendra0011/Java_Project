@@ -1,0 +1,55 @@
+SET
+==============================
+1) We can't store duplicate information in SET.
+2) We can store only single null value.
+3) order of insertion is random.
+4) Storage type is HashTable.
+
+SET sub interface having three implementation classes;
+ 1) HashSet
+ 2) LinkedHashSet
+ 3) TreeSet.
+============================================================================================
+HashSet
+===========================
+1) We can't store duplicate information in HashSet.
+2) We can store only single null value.
+3) order of insertion is random.
+4) No default capacity For LinkedList
+5) Data Structure : HashTable.
+6) Storage type is HashTable.
+
+Best choice : To Remove duplicate information.
+============================================================================================
+LinkedHashset
+===========================
+1) We can't store duplicate information in LinkedHashset.
+2) We can store only single null value.
+3) order of insertion is random.
+4) No default capacity For LinkedHashset.
+5) Data Structure : Hybrid.
+6) Storage type is HashTable.
+
+Best choice : To Remove duplicate information.
+============================================================================================
+TreeSet
+===============================
+1) We can't store duplicate information in TreeSet.
+2) We can't store only single null value.
+3) order of insertion is Ascending order.
+5) Data Structure : Balanced tree.
+6) Storage type is HashTable.
+
+Note : in TreeSet we can store only homogenous data
+
+Best choice : To Remove duplicate information and Order of insertion is in ascending order.
+
+
+
+
+
+
+
+
+
+

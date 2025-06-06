@@ -1,0 +1,48 @@
+Map :
+============================================
+In Java, a Map is an interface in the Collection Framework used to store key-value pairs.
+
+HashMap
+=============
+Most commonly used Map implementation.
+Stores key-value pairs using hashing.
+Does not maintain insertion order.
+Allows one null key and multiple null values.
+Not synchronized (not thread-safe).
+
+================================================================================================================
+HashTable:
+Thread-safe (synchronized).
+Does not allow null keys or null values.
+==================================================================================================================
+					HashMap 							|			HashTable(Legacy Class)
+==================================================================================================================
+1) Not-synchronized										|		1) Synchronized (thread can not access the same
+(Multiple thread can access multiple method)			|			method at same time)
+2) Not Thread shape										|		2) thread shape
+3) Performance is faster								|		3) performance is low
+4) Allow one null key and allow multiple null values.	|		4) doen't allow any null key and null values
+==================================================================================================================
+
+1) getKey(key) : Return value from the given key.
+===============
+2) put(key,value) : add or update Key-Value pair
+===============
+3) remove(key) : remove entry with given key
+===============
+4) remove(Object key, object value) : remove entry with given key and value
+===============
+5) containsKey(key) : checks key if exist
+===============
+6) containsValue(value) : checks value if exist
+===============
+7) keySet() : Return set of all keys
+===============
+8) entrySet() : return set of Key-Value pair.
+===============
+9) values() : return all collection values.
+===============
+==================================================================================================================
+
+
+

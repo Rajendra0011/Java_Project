@@ -1,0 +1,76 @@
+LIST :
+=====================================
+1) Duplicate information allowed in List.
+2) Allow any number of Null Values
+3) Storage Type Index.
+4) Order of insertion is maintained.
+
+List interface having different types of implementation classes.
+1) ArrayList
+2) LinkeHashset
+3) Vector
+
+ArrayList :
+==========================
+ArrayList ar= new ArrayList();
+
+1) We can store duplicate information in ArrayList.
+2) We can store any number of null values.
+3) storage type : Index.
+4) order of insertion maintained.
+5) default capacity of ArrayList is 10.
+6) Incremental capacity of ArrayList is (cp*3/2+1).
+7) Data Structure : resizable
+
+Best choice :
+Retrieval  Operation  : Random Access interface implemented in ArrayList.
+
+Worst Choice :
+Manipulation Operation : Insertion and deletion in between arraylist it perform right shift and left shift operation.
+=====================================================================================================================
+LinkedList:
+================
+	LinkedList l= new LinkedList()
+1) We can store duplicate information in LinkedList.
+2) We can store any number of null values.
+3) Storage type : Index.
+4) order of insertion maintained.
+5) No default capacity For LinkedList
+7) Data Structure : Linear
+
+Best choice :
+Manipulation Operation : Insertion and deletion in between linkedList.
+
+Worst Choice :
+Retrieval  Operation : Random Access interface NOT implemented in ArrayList.
+=====================================================================================================================
+Vector:
+==========================
+		Vector v= new Vector();
+1) We can store duplicate information in Vector.
+2) We can store any number of null values.
+3) Storage type : Index.
+4) order of insertion maintained.
+5) default capacity of Vector is 10.
+6) Incremental capacity of Vector is (cp*2).
+7) Data Structure : doubly.
+Best choice :
+Retrieval  Operation  : Random Access interface implemented in Vector.
+
+Worst Choice :
+Manipulation Operation : Insertion and deletion in between Vector it perform right shift and left shift operation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+Arrays :
+==================================================
+Arrays is data structure used to store collection of information.
+
+1) Array stores only homogeneous information.
+In Java, arrays store homogeneous elements — all elements must be of the same data type.
+2) Arrays Declaration need to be done with capacity
+3) Once an array is created, its size is fixed and cannot be changed.
+4) Array is nothing but object , inside object of array array index will present that index start from zero.
+====================================================================================================
+
+Types of Array :
+Single dimensional Array
+Multidimensional Array
+i) Two Dimensional Array
+ii)Three Dimensional Array
+====================================================================================================
+int[] arr = new int[5];  // Declaration + creation
+arr[0] = 10;
+arr[1] = 20;
+====================================================================================================
+
+int[][] matrix = new int[2][3];  // 2 rows, 3 columns
+matrix[0][0] = 1;
+matrix[0][1] = 2;
+====================================================================================================
+
+int[][][] cube = new int[2][2][2];
+
+====================================================================================================
+
+
+

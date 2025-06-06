@@ -1,0 +1,10 @@
+			List										 |							SET
+======================================================================================================================
+We can store duplicate information in List interface	 |	We can't store duplicate information in set interface.
+We can store any number of null values in List interface.|	We can store only one null value in Set interface.
+Storage type of list Interface is Index.				 |	Storage type of list Interface is :HashTable
+Order of insertion is maintained in List				 |	Order of insertion is not maintained in SET
+======================================================================================================================
+
+
+

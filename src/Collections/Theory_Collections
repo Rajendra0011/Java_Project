@@ -1,0 +1,33 @@
+Collections :
+================================
+It is single entity or object which we can store multiple data.
+
+Collection FrameWork
+====================
+It is set of predefined classes and interface which is used to store multiple data.
+
+It contain Two Types:
+1) java.util.collection.
+2) java.util.map
+
+										Collection(Interface)
+												| extends
+	------------------------------------------------------------------------------------
+	|											|										|
+	|											|										|
+	
+	LIST										SET										QUEUE
+(Implementations Classes)
+	ArrayList<>								HashSet<>									Priority Queue
+	LinkedList<>							LinkedHashSet<>
+	Vector<>								TreeSet<>
+
+
+Cursor in collections:
+===========================
+To fetch data from interface or classes we use different cursor.
+1) iterator
+2) ListIterator
+3) enumeration
+
+
