@@ -15,13 +15,13 @@ HashTable:
 Thread-safe (synchronized).
 Does not allow null keys or null values.
 ==================================================================================================================
-					HashMap 							|			HashTable(Legacy Class)
+					HashMap 		|		HashTable(Legacy Class)
 ==================================================================================================================
-1) Not-synchronized										|		1) Synchronized (thread can not access the same
+1) Not-synchronized						|		1) Synchronized (thread can not access the same
 (Multiple thread can access multiple method)			|			method at same time)
-2) Not Thread shape										|		2) thread shape
-3) Performance is faster								|		3) performance is low
-4) Allow one null key and allow multiple null values.	|		4) doen't allow any null key and null values
+2) Not Thread shape						|		2) thread shape
+3) Performance is faster					|		3) performance is low
+4) Allow one null key and allow multiple null values.		|		4) doen't allow any null key and null values
 ==================================================================================================================
 
 1) getKey(key) : Return value from the given key.
