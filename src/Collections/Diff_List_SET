@@ -1,4 +1,4 @@
-			List										 |							SET
+			List				 |			SET
 ======================================================================================================================
 We can store duplicate information in List interface	 |	We can't store duplicate information in set interface.
 We can store any number of null values in List interface.|	We can store only one null value in Set interface.
