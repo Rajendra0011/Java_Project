@@ -4,3 +4,11 @@ A static block( Also known as static initialization block) is a block of code in
 when the class is loaded into memory.
 
 Before any object are created and even before main() method is executed
+
+===============================================================================================================
+
+Key Points :
+1) Declared using static {  ....}
+2) Execute only once ,when the class loaded.
+3) Typically used to initialized static variable to perform setup.
+===============================================================================================================

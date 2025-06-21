@@ -14,7 +14,7 @@ To create object of interface programmer need to make use of implementation Clas
 
 Implementations Class:
 ========================
-A class which provide definitions for all the incomplete method which present in interface with the help
+A class which provide definitions for all the incomplete methods which are present in interface with the help
 of 'implementations' keyword is called implementation class.
 
 

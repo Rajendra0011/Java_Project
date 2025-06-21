@@ -1,9 +1,10 @@
 PloyMorphisam :
-It is one of the OOPs principle where one object showing different Behavior  at different stages
+=========================
+It is one of the OOPs principle where one object showing different Behavior at different stages
 of life cycle.
 
-In Java PloyMorphisam  is classified into two types :
-
+In Java PloyMorphisam is classified into two types :
+=======================================================
 1) CompileTime PloyMorphisam (Static)
 2) Runtime PloyMorphisam (Dynamic)
 ======================================
@@ -46,7 +47,7 @@ definitions according to Sub-class specification  is called as method overriding
 
 1) Method should be same in both the Classes
 2) Types of arguments should be Same
-3) No of Parameters should be same.
+3) Number of Parameters should be same.
 
 
 

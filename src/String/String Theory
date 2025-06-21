@@ -1,0 +1,12 @@
+String :
+==============================
+String is Non-Primitive data types memory size is fixed.
+String is use to Store collection of Character.
+String is a in-built class present inside java.lang.package
+String is a final class can't be inherited to other classes
+At the time of String declaration & intialization object Creation takes-place.
+String Object is immutable in nature It can't be change.
+
+Object Creation of String can be done in two ways,
+1) Without Using New Keywords,
+2) Using New Keywords

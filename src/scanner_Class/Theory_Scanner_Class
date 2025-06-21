@@ -9,7 +9,7 @@ Syntax : Scanner sc = new Scanner(System.in);
 1) nextInt(): Reads integer values.
 2) nextFloat(): Reads float value.
 3) nextLine(): Reads string value until newline character ('\n') is encountered.
-4) next(): Reads string value until space or newline character is encountered.
+4) next(): Reads string value until space or new-line character is encountered.
 5) nextDouble(): Reads double value.
 6) nextBoolean(): Reads boolean value.
 
