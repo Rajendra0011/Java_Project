@@ -1,0 +1,25 @@
+Arrays:
+======================================================================================================
+An arrays is a data structure used in java to store collection of information of the same data types in a single
+containers.
+================================================================================================================
+Key CharecterStics Arrays
+===================================================
+
+1) Homogeneous Data :
+	In array we can store only Similar type of data (int ,float).
+2) Fixed Size :
+	The size of an array must be declared during its objects creations,It can not be changed after words.
+	(It means not growable in nature)
+
+3) Index Based Access :
+	Array element are accessed using Index values which which is start from zero up-to lenght-1.
+	(Arrays is an object - inside of object of array index will present)
+
+======================================================================================================
+
+	Disadvantages :
+	--> In array we can store only Similar type of informations
+	--> The size of an array must be declared during its object creations)
+	--> Wastage of memory
+==========================================================================================================

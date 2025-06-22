@@ -2,8 +2,8 @@ PloyMorphisam :
 =========================
 It is one of the OOPs principle where one object showing different Behavior at different stages
 of life cycle.
-
-In Java PloyMorphisam is classified into two types :
+=========================
+In Java PloyMorphisam has classified into two types :
 =======================================================
 1) CompileTime PloyMorphisam (Static)
 2) Runtime PloyMorphisam (Dynamic)

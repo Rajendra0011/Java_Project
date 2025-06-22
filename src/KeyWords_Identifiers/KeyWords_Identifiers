@@ -1,5 +1,5 @@
 ==============================================================================================================
-KeyWord and Identifiers :
+KeyWords and Identifiers :
 ==============================================================================================================
 Keywords are predefined reserved word use in java programming language that have special meaning for
 compiler.
@@ -14,7 +14,7 @@ Identifiers :
 ====================================
 	Identifiers can not be keywords,
 	It can have sequence of letters.
-	It can be begain with letters, $, _.
+	It can be begin with letters, $, _.
 	The first letter of identifiers can not have digit.
 	White space not allowed ,Similarly you can't use symbol such as @ # and so on.
 ===============================================================================================================
