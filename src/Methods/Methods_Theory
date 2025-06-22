@@ -1,0 +1,56 @@
+Methods :
+=================================================
+	Method is a block of code which only runs when it is called.
+	You can pass data is known as  Parameters.
+	Method are used to perform certain action they are also know as functions.
+	To reuse the code ,define code once use it many times.
+==============================================================================================================
+	There are two types of Methods
+	1) Main Method
+	2) Regular Method
+==============================================================================================================
+ 1) Main Method:
+ 	In Java Program , main method starting point from where compiler start program executions.
+ 	So,Compiler need to call main method.
+ 	Without main method we can not run any java program.
+
+ 	public static void main(String args[])
+ 	{
+ 		//main method body
+ 	}
+==============================================================================================================
+2) Regular Method :
+	There are two types of regular methods.
+	i) Static regular method
+	ii) Non-Static regular method.
+
+i) Static regular method
+	1) Static Regular method call from same class
+
+	   MethodName();
+
+	 2) Static Regular method call from different class
+	 	ClassName.MethodName();
+==============================================================================================================
+ii) Non-Static regular Method
+ 	1) Non-Static Regular method call from same class
+
+ 	Create object of Same Class
+
+ 	SameClassName call= new SameClassName()
+ 	call.methodName();
+
+ 2) Non-Static Regular method call from same class
+	Create object of Different Class
+ 	DiffClassName call= new DiffClassName()
+ 	call.methodName();
+==============================================================================================================
+
+Note : We Can't access Non-Static regular method properties in main method directly we need to create object of
+	   class to access the properties.
+
+	  ClassName cl = new ClassName();
+
+	 cl : Object reference
+	 new : Keyword is used to create blank object.
+==============================================================================================================

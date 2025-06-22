@@ -1,6 +1,6 @@
 Variables:
 ===========================================
--> variable is the name of memory location that can store Data.
+-> variable is the name of memory location used to store data during program execution.
 -> Variable is a Container which can hold data, to represents that data we need to use variable.
 -> In any programming language the variable is elementary unit for storing data.
 -> It means If we create a variable you reserved some space in memory

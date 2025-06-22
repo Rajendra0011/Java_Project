@@ -1,1 +1,55 @@
 Data types :
+Represents Type of Data.
+Whenever we want to store some data in a variable, we have to specify some data type.
+
+Java Has two types data types
+1) Primitive Data Types
+2) Non-Primitive Data Types
+
+1) Primitive Data Types:
+===================================
+	This are the basic data types of these are predefined in Java.
+	Each primitive Data types has fixed size.
+	All primitive Data types is keywords.
+	All keyword start with lower Case.
+	The Memory allocation is fixed and depends upon the Data Types;
+
+	Each Primitive data types has a default values. If we not initialized.
+	int 	: default values 	: 0.00
+	boolean : default value 	: false
+	char 	: default value 	: \u000
+
+	Primitive data types of immutable once value is assigned to primitive variable it can't be changed.
+
+	Java Has 8 types primitive Data types:
+	1) byte	    1 byte
+	2) short	2 bytes
+	3) int 		4 bytes
+	4) long		8 bytes
+	5) float	4 bytes
+	6) double	8 bytes
+	7) char		2 bytes
+	8) boolean	1 bit true/false
+
+	byte , short, int , long, -----> to represents number,without decimal.
+	float,double ---> 	to represents decimal number.
+	char -----> to represents single character
+	boolean ---> to store either true or false
+
+2) Non-Primitive Data types	:
+==============================
+	These data types are more complex data types that refers to objects.
+	The Size of non primitive data types is not fixed because it depends upon the data structure they point to.
+	Non-primitive data types has default value is Null.
+	All Non-Primitive Data types is identifiers
+
+	Non Primitive data Types:
+
+	String,Arrays, Objects.
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+==============================================================================================================
+KeyWord and Identifiers :
+==============================================================================================================
+Keywords are predefined reserved word use in java programming language that have special meaning for
+compiler.
+
+For Ex : continue , abstract, boolean, break, int , float, byte,
+==============================================================================================================
+Identifiers :
+==============================================================================================================
+	Identifiers are name given to variable,classes, Methods, Packages.
+
+	Rules of Naming identifiers :
+====================================
+	Identifiers can not be keywords,
+	It can have sequence of letters.
+	It can be begain with letters, $, _.
+	The first letter of identifiers can not have digit.
+	White space not allowed ,Similarly you can't use symbol such as @ # and so on.
+===============================================================================================================

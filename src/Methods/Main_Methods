@@ -1,0 +1,37 @@
+Main Method:
+=================================================
+ 	In Java Program , main method starting point from where compiler start program executions.
+ 	So,Compiler need to call main method.
+ 	Without main method we can not run any java program.
+
+ 	public static void main(String args[])
+ 	{
+ 		//main method body
+ 	}
+
+ 	1) Public : It is an access specifiers. to represents the scope of this method.
+
+ 	2) static : it is a method type : you can make a method static by using static keywords,
+ 				Note : static method are the methods which call without creating objects,
+ 				so we did not required create any objects to call main methods.
+
+ 	3) void	  : In java every method is has the return type "void" keywords represents that
+ 				main does not return any value.
+
+ 	4) main() : It is default predefined function in JVM, It is called by JVM to execute a program
+ 				line by line after completion this methods.
+
+ 	5) String [] args : The main method also has accept some data from users. Which accept the group
+ 						of string which is called string arrays.
+ 						It is used to hold commands line arguments in the form of string values.
+ 						Values passed in main method is called as arguments.
+=================================================================================================================
+  Can we overLoad main method:
+====================================
+  Yes:
+  We can Overload main method but we need to pass different parameters.
+  Because of JVM always call main method receive string arguments only.
+=================================================================================================================
+
+
+
